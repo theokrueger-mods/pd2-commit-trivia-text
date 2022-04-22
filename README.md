@@ -1,9 +1,11 @@
 # Commit Trivia Text
+
 replaces loading trivia with random text from http://whatthecommit.com/
 
 install to `mods/`
 
 ## previews
+
 ![thumbnail](img/thumbnail.png)
 
 ![preview 1](img/prev1.png)
@@ -21,4 +23,5 @@ install to `mods/`
 ![preview 7](img/prev7.png)
 
 ## license
+
 MIT, see [LICENSE](LICENSE)
