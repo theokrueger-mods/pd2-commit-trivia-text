@@ -3,7 +3,6 @@
         "name" : "Commit Trivia Text",
         "author" : "theokrueger",
         "description" : "replaces loading screen trivia text with random text from http://whatthecommit.com/",
-        "color" : "255 182 193"
         "version" : "1.0",
         "hooks" : [
                 {
