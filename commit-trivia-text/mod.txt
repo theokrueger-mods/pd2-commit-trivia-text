@@ -1,15 +1,14 @@
 {
-	"blt_version" : 2,
-	"name" : "Commit Trivia Text",
-	"author" : "mercu",
-	"description" : "replaces loading screen trivia text with random text from http://whatthecommit.com/",
-	"contact" : "https://steamcommunity.com/id/mercuwu/",
-	"color" : "255 182 193"
-	"version" : "1.0",
-	"hooks" : [
-		{
-			"hook_id" : "lib/tweak_data/tipstweakdata",
-			"script_path" : "lua/tipstweakdata.lua"
-		}	
-	]
+        "blt_version" : 2,
+        "name" : "Commit Trivia Text",
+        "author" : "theokrueger",
+        "description" : "replaces loading screen trivia text with random text from http://whatthecommit.com/",
+        "color" : "255 182 193"
+        "version" : "1.0",
+        "hooks" : [
+                {
+                        "hook_id" : "lib/tweak_data/tipstweakdata",
+                        "script_path" : "hooks/tipstweakdata.lua"
+                }
+        ]
 }
