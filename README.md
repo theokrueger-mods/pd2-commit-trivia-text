@@ -4,21 +4,21 @@ replaces loading trivia with random text from http://whatthecommit.com/
 install to `mods/`
 
 ## Previews
-![thumbnail](https://github.com/theokrueger-mods/pd2-commit-trivia-text/raw/master/thumbs/thumbnail.png)
+![thumbnail](img/thumbnail.png)
 
-![preview](https://github.com/theokrueger-mods/pd2-commit-trivia-text/raw/master/thumbs/prev1.png)
+![preview1](img/prev1.png)
 
-![preview](https://github.com/theokrueger-mods/pd2-commit-trivia-text/raw/master/thumbs/prev2.png)
+![preview2](img/prev2.png)
 
-![preview](https://github.com/theokrueger-mods/pd2-commit-trivia-text/raw/master/thumbs/prev3.png)
+![preview3](img/prev3.png)
 
-![preview](https://github.com/theokrueger-mods/pd2-commit-trivia-text/raw/master/thumbs/prev4.png)
+![preview4](img/prev4.png)
 
-![preview](https://github.com/theokrueger-mods/pd2-commit-trivia-text/raw/master/thumbs/prev5.png)
+![preview5](img/prev5.png)
 
-![preview](https://github.com/theokrueger-mods/pd2-commit-trivia-text/raw/master/thumbs/prev6.png)
+![preview6](img/prev6.png)
 
-![preview](https://github.com/theokrueger-mods/pd2-commit-trivia-text/raw/master/thumbs/prev7.png)
+![preview7](img/prev7.png)
 
 ## License
-MIT, see [LICENSE](https://github.com/theokrueger-mods/pd2-commit-trivia-text/raw/master/LICENSE
+MIT, see [LICENSE](LICENSE)
