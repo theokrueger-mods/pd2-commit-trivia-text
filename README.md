@@ -3,7 +3,7 @@ replaces loading trivia with random text from http://whatthecommit.com/
 
 install to `mods/`
 
-## Previews
+## previews
 ![thumbnail](img/thumbnail.png)
 
 ![preview1](img/prev1.png)
@@ -20,5 +20,5 @@ install to `mods/`
 
 ![preview7](img/prev7.png)
 
-## License
+## license
 MIT, see [LICENSE](LICENSE)
